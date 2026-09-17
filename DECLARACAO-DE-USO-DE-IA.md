@@ -9,9 +9,9 @@ sim.
 
 ## Equipe
 
-| Nome | Matrícula |
-|---|---|
-| | |
+| Nome                   | Matrícula   | GitHub    |
+|------------------------|-------------|-----------|
+| Mylena Paulino de Lima | 20250138232 | Mylena-p  |
 
 ## Uso declarado
 
@@ -19,7 +19,7 @@ Uma linha por uso relevante. Se não houve uso, escreva "Não houve uso de ferra
 
 | Data | Ferramenta | Finalidade | Arquivos/trechos afetados | O que foi revisado e alterado por vocês |
 |---|---|---|---|---|
-| | | | | |
+| | | |   | |
 
 ## Compromisso
 
